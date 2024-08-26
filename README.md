@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghiroshii" alt="ghiroshii" /></a> </p>
 
-- 🔭 I’m currently working on [AutoStarRail](https://github.com/ghiroshii/AutoStarRail)
+- 🔭 I’m currently working on [FusionHeroes](https://github.com/ghiroshii/fusionHeros)
 
 - 🌱 I’m currently learning **Python, SQL and Ruby**
 

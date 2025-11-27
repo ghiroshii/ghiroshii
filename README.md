@@ -8,7 +8,7 @@
 - 🌱 Atualmente estou aprendendo **C, Python e Ruby**
 
 - 💬 Me pergunte sobre **Python**
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-h-freitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-h-freitas" altura="30" largura="40" /></a>

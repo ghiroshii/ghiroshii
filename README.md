@@ -9,7 +9,4 @@
 
 - 💬 Ask me about **Python**
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghiroshii&show_icons=true&locale=en&layout=compact" alt="ghiroshii" /></p>
+<p align="left"></p>
